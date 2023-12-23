@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\forGit\mp2-lab5-polinoms\polinomlib\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\forGit\mp2-lab5-polinoms\polinomlib\TMonom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\forGit\mp2-lab5-polinoms\polinomlib\TPolinom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\forGit\mp2-lab5-polinoms\polinomlib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9108424B-CD48-320C-BEDC-A2C0E8610D2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{80FB5A1A-35FD-3CF3-8D4C-F36D153CCFB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
